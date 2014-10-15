@@ -1,1 +1,5 @@
-httpest*
+coredump/*
+clang-analyzer/*
+.nginx.thisrun.conf
+Gemfile.lock
+errors*.log
